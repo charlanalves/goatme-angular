@@ -4,3 +4,5 @@
 2 - `npm install`
 
 3 - `npm start`
+
+4- `acesse http://localhost:4200/ ou o endereço que aparecer no final do comando npm start`
